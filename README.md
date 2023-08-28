@@ -1,8 +1,8 @@
 <div align="center">
       <img width="49%" src="./src/assets/images/light-mode.png"
-        alt="Light Mode">
+        alt="Light Mode" title="Light Mode">
       <img width="49.5%" src="./src/assets/images/dark-mode.png"
-        alt="Dark Mode">
+        alt="Dark Mode" title="Dark Mode">
   </div>
 
 <h1 align="center">
