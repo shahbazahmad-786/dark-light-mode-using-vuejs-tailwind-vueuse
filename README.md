@@ -16,7 +16,7 @@ Create or install the `vue-js` application and `tailwind-css` framework.
 ## Install VueUse library
 
 ```sh
-npm i vueuse/core
+npm i @vueuse/core
 ```
 
 ## Change in tailwind.config.js
